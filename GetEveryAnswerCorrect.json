@@ -2,7 +2,7 @@
   "title": "AllAnswersCorrect",
   "discription": "Gets all the answers correct",
   "author": "Glixxzy"
-  "url": "https://github.com/XJSWAG/blooket-injectables/new/main",
+  "url": "https://github.com/XJSWAG/blooket-injectables/blob/main/GetEveryAnswerCorrect.json",
       "scripts": [
         "https://github.com/glixzzy/blooket-hack/blob/main/global/getEveryAnswerCorrect.js"
       ],
