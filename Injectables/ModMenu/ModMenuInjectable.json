@@ -2,7 +2,7 @@
   "title" : "Mod Menu"
   "description" : "A mod menu with loads of scripts"
   "author" : "XJSWAG"
-  "url" :
+  "url" : "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/ModMenuInjectable.json?token=GHSAT0AAAAAABQ7FO6VY7GGVOCBLERFTX6GYPSDJWA"
   "scripts" [
   "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/Setup.js?token=GHSAT0AAAAAABQ7FO6V2PO4SGKYAMRE5SZ2YPSDHOA"
   "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/GlixxzyModMenu.js?token=GHSAT0AAAAAABQ7FO6VUVK5VDUJJFPWQLB4YPSDFLA"
