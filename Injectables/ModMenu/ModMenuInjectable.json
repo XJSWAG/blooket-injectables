@@ -2,11 +2,11 @@
   "title" : "Mod Menu"
   "description" : "A mod menu with loads of scripts"
   "author" : "XJSWAG"
-  "url" : "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/ModMenuInjectable.json?token=GHSAT0AAAAAABQ7FO6VY7GGVOCBLERFTX6GYPSDJWA"
+  "url" : "https://github.com/XJSWAG/blooket-injectables/edit/main/Injectables/ModMenu/ModMenuInjectable.json"
   "scripts" [
-  "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/Setup.js?token=GHSAT0AAAAAABQ7FO6V2PO4SGKYAMRE5SZ2YPSDHOA"
-  "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/GlixxzyModMenu.js?token=GHSAT0AAAAAABQ7FO6VUVK5VDUJJFPWQLB4YPSDFLA"
+  "https://github.com/XJSWAG/blooket-injectables/blob/main/Injectables/ModMenu/GlixxzyModMenu.js"
+  "https://github.com/XJSWAG/blooket-injectables/blob/main/Injectables/ModMenu/Setup.js"
   ],
-"setupScript" : "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/Setup.js?token=GHSAT0AAAAAABQ7FO6V2PO4SGKYAMRE5SZ2YPSDHOA"
-"cleanUpScript" : "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/cleanUp.js?token=GHSAT0AAAAAABQ7FO6V7N6DQLCSLW7AQ7YSYPSDI2Q"
+"setupScript" : "https://github.com/XJSWAG/blooket-injectables/blob/main/Injectables/ModMenu/Setup.js"
+"cleanupScript" : "https://github.com/XJSWAG/blooket-injectables/blob/main/Injectables/ModMenu/cleanUp.js"
 }
