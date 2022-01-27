@@ -1,0 +1,12 @@
+{
+  "title" : "Mod Menu"
+  "description" : "A mod menu with loads of scripts"
+  "author" : "XJSWAG"
+  "url" :
+  "scripts" [
+  "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/Setup.js?token=GHSAT0AAAAAABQ7FO6V2PO4SGKYAMRE5SZ2YPSDHOA"
+  "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/GlixxzyModMenu.js?token=GHSAT0AAAAAABQ7FO6VUVK5VDUJJFPWQLB4YPSDFLA"
+  ],
+"setupScript" : "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/Setup.js?token=GHSAT0AAAAAABQ7FO6V2PO4SGKYAMRE5SZ2YPSDHOA"
+"cleanUpScript" : "https://raw.githubusercontent.com/XJSWAG/blooket-injectables/main/Injectables/ModMenu/cleanUp.js?token=GHSAT0AAAAAABQ7FO6V7N6DQLCSLW7AQ7YSYPSDI2Q"
+}
