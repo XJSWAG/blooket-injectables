@@ -1,1 +1,1 @@
-delete blooketUtility.prefs.modmenu;
+delete blooketUtility.prefs.modMenu;
